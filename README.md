@@ -1,5 +1,5 @@
 
-# Vipul Raj's Medical Symptom Checker
+# Vipulx Medical Symptom Checker
 
 ![GUI](https://img.shields.io/badge/GUI-USWDS_2.7.1-0B1013)
 ![Language](https://img.shields.io/badge/Language-JavaScript-026300)
@@ -9,7 +9,7 @@
 
 ## Description
 
-**Vipul Raj's Medical Symptom Checker** is designed to help users understand the possible causes of symptoms in children and adults, offering an intuitive and user-friendly interface.
+**Vipulx Medical Symptom Checker** is designed to help users understand the possible causes of symptoms in children and adults, offering an intuitive and user-friendly interface.
 
 ## Mission
 
